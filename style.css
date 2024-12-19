@@ -20,6 +20,20 @@ body {
 .result-details{
     color: white;
 }
+
+.time {
+    color: #0069ae;
+}
+.mistake {
+    color: #ae0000;
+}
+.wpm {
+    color: #31c90b;
+}
+.cpm {
+    color: #d2d202;
+}
+
 ::selection {
     color: #fff;
     background: #007acc;
@@ -64,6 +78,18 @@ body {
     color: #ca4754;
     border-radius: 4px;
 }
+
+.link{
+    position: absolute;
+    top: 90%;
+}
+
+.img-link {
+    width: 30px;
+    height: 30px;
+
+}
+
 /* .typing-text p span.active {
     color: #17A2B8;
 } */
